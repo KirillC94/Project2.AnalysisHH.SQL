@@ -7,7 +7,7 @@
 
 **О структуре проекта:**
 * [data](./data) - папка с вспомогательными файлами
-* [Project_2.Analysis_hh(sql).ipynb](Project-2.Analysis_hh(sql).ipynb) - jupyter-ноутбук, содержащий основной код проекта
+* [Project_2_Analysis_hh(sql).ipynb](Project_2_Analysis_hh(sql).ipynb) - jupyter-ноутбук, содержащий основной код проекта
 
 
 ## Описание данных
